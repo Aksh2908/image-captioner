@@ -81,12 +81,3 @@ Screenshot:
 * Place your dataset images into ```data/Images/```
 * Place your dataset captions into ```data/textFiles/```
 * After training your model, place them into ```model_checkpoints/```
-
-## Requirements
-1. Tensorflow
-2. Anaconda
-3. Python 3.7
-4. Tkinter
-5. Numpy
-
-#### Training time: ~21 hrs on i7 8750H

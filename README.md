@@ -61,10 +61,6 @@ caption.
 - ![](images/caption3.JPG)
 - ![](images/caption4.JPG)
 
-#### UI was created using Tkinter.
-Screenshot:
-- ![](images/ui.JPG)
-
 #### Summary
 1. Image sent to CNN(Resnet50).
 2. Last layer of CNN is removed.
